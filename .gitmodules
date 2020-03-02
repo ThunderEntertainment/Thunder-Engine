@@ -1,0 +1,3 @@
+[submodule "Thunder-Engine/vendor/spdlog"]
+	path = Thunder-Engine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
